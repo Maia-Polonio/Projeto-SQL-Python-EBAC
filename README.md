@@ -11,3 +11,6 @@ Dataset Utilizado no Projeto
 O Dataset utilizado se trata de uma amostra do dataset original disponibilizado no GitHub do Professor André Perez no seguinte link: http://github.com/andre-marcos-perez/ebac-course-utils, para praticar as competências desenvolvidas, desta forma podem haver divergência nas análises.
 
 Os dados disponibilizados correspondem às informações dos clientes de um banco, com o propósito de aprofundar o entendimento sobre suas necessidades e preferências. Isso visa identificar oportunidades para enriquecer a experiência do cliente e desenvolver novos produtos e serviços, por meio de estratégias de marketing direcionadas.
+
+![image](https://github.com/user-attachments/assets/69e99185-e01d-493c-9a60-a444ab8dc97b)
+
